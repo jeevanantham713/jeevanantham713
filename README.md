@@ -2,20 +2,23 @@
 
 # `> JEEVANANTHAM V_`
 
-### `B.Sc. Computer Science (AI & Data Science)`
+### B.Sc. Computer Science (AI & Data Science) | Web Developer | Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;SOC+%26+SIEM+Learner;Building+%7C+Learning+%7C+Securing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Web+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;SOC+%26+SIEM+Learner;AI+Agent+Builder;Build+%7C+Learn+%7C+Secure" alt="Typing SVG" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-jeevanantham713-00ff9c?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jeevanantham713)
-[![Profile Views](https://komarev.com/ghpvc/?username=jeevanantham713\&style=for-the-badge\&color=00ff9c)](https://github.com/jeevanantham713)
+<a href="https://github.com/jeevanantham713">
+<img src="https://img.shields.io/badge/GitHub-jeevanantham713-00FF9C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=jeevanantham713&style=for-the-badge&color=00FF9C" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## `whoami`
+## `> whoami`
 
 ```bash
 $ whoami
@@ -25,63 +28,64 @@ jeevanantham
 $ cat profile.txt
 
 Role        : Computer Science Student
+Degree      : B.Sc. Computer Science (AI & Data Science)
 Focus       : Web Development + Cybersecurity + AI
 Learning    : SOC | SIEM | Networking | Linux | Python
 Building    : Security Tools | AI Agents | Web Applications
 Location    : Tamil Nadu, India
+Status      : Learning & Building
 ```
 
-I am a Computer Science student focused on building practical software and developing skills in cybersecurity, artificial intelligence, and web development.
+I am a Computer Science student interested in building practical software, exploring cybersecurity, and using AI to solve real-world problems.
 
-My current learning path combines software development with defensive security:
-
-`Programming → Networking → Linux/Windows → Cybersecurity → SOC/SIEM → Threat Detection → AI + Security`
+My main interests are Web Development, Cybersecurity, SOC/SIEM, AI Agents, Python automation, and intelligent applications.
 
 ---
 
-## `> skills`
+## `> about_me`
 
-### Languages
+* 🎓 B.Sc. Computer Science — AI & Data Science
+* 💻 Web Development enthusiast
+* 🛡️ Cybersecurity and SOC learner
+* 🤖 Exploring AI/ML and AI agents
+* 🐍 Improving Python and automation skills
+* 🌐 Learning networking and system security
+* 🐧 Working with Linux and Windows
+* 🔧 Building practical projects
+* 🚀 Interested in cybersecurity internships and real-world development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+---
+
+## `> tech_stack`
+
+### Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming Skills"/>
 </p>
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" alt="Web Development Skills"/>
 </p>
 
 ### AI / Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI Skills"/>
 </p>
 
 ### Cybersecurity & Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows,bash" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,windows" alt="Cybersecurity Skills"/>
 </p>
-
-```text
-Cybersecurity
-├── Networking
-├── Linux / Windows
-├── Nmap
-├── Wireshark
-├── Burp Suite
-├── OWASP
-├── Log Analysis
-├── SIEM
-└── Threat Detection
-```
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="Tools"/>
 </p>
 
 ---
@@ -92,51 +96,33 @@ Cybersecurity
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ CyberGuard AI
+### 🛡️ Cybersecurity News Agent
 
-AI-assisted cybersecurity log analysis platform.
+An AI-powered cybersecurity news application that collects security news and uses AI to analyze and present relevant information.
 
-```text
-LOG FILE
-   ↓
-PARSER
-   ↓
-THREAT DETECTION
-   ↓
-AI ANALYSIS
-   ↓
-SECURITY REPORT
-```
+**Technologies**
+
+`Python` `AI` `Gemini API` `Cybersecurity`
 
 **Focus**
 
-`SOC` `Log Analysis` `Threat Detection` `AI`
+`Threat Intelligence` · `Security News` · `AI Agents`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📡 LOG SENTINEL
+### 🔐 CyberGuard AI
 
-Mini SIEM project for learning security monitoring workflows.
+A cybersecurity log-analysis project where users can upload log files and analyze suspicious activity, possible attacks, and security events.
 
-```text
-Windows/Linux Logs
-        ↓
-      SIEM
-        ↓
- Detection Rules
-        ↓
-      Alerts
-        ↓
- Investigation
-        ↓
- Incident Report
-```
+**Technologies**
+
+`Python` `AI` `Log Analysis`
 
 **Focus**
 
-`SIEM` `SOC` `Detection Engineering`
+`SOC` · `Threat Detection` · `Incident Analysis`
 
 </td>
 </tr>
@@ -144,79 +130,43 @@ Windows/Linux Logs
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Cybersecurity News Agent
+### 📊 LOG SENTINEL
 
-AI-powered cybersecurity news intelligence system.
+A Mini SIEM project designed around the security monitoring workflow.
 
 ```text
-WEB
+Logs
  ↓
-NEWS
+SIEM
  ↓
-COLLECT
+Detection Rules
  ↓
-AI ANALYSIS
+Alerts
  ↓
-SECURITY NEWS
+Investigation
+ ↓
+Incident Report
 ```
 
 **Focus**
 
-`AI Agents` `Gemini API` `Cybersecurity`
+`SOC` · `SIEM` · `Detection Engineering`
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🌾 Project Kisan
-
-AI-powered agriculture assistant built to provide farmers with useful crop and agriculture information.
-
-**Team:** Theme Stack
-
-**Focus**
-
-`React` `Node.js` `AI` `Agriculture`
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔎 Cyber Recon System
 
-Authorized security reconnaissance and website analysis tool.
+An authorized website security reconnaissance tool for analyzing HTTP, TLS, cookies, headers, DNS/email security, and other security-related information.
 
-```text
-TARGET
- ↓
-HTTP / TLS
- ↓
-HEADERS
- ↓
-COOKIES
- ↓
-DNS / EMAIL
- ↓
-SECURITY REPORT
-```
+**Technologies**
+
+`Python` · `HTTP` · `TLS` · `DNS`
 
 **Focus**
 
-`Python` `Web Security` `Recon`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ♻️ BioWaste 360
-
-AI/IoT-oriented project focused on technology-assisted organic waste management.
-
-**Focus**
-
-`AI` `IoT` `Automation` `Sustainability`
+`Reconnaissance` · `Web Security` · `Security Reporting`
 
 </td>
 </tr>
@@ -224,29 +174,35 @@ AI/IoT-oriented project focused on technology-assisted organic waste management.
 
 ---
 
-## `> current_mission`
+## `> current_learning`
 
 ```text
-[████████████████████░░] 80%
-
-Learning
- ├── Python                 ████████████████░░
- ├── Networking             ██████████████░░░░
- ├── Linux                  ██████████████░░░░
- ├── Cybersecurity          █████████████░░░░░
- ├── SOC / SIEM             ███████████░░░░░░░
- ├── Web Development        ████████████████░░
- └── AI Agents              ███████████░░░░░░░
+Python
+   │
+   ▼
+Networking
+   │
+   ▼
+Linux & Windows
+   │
+   ▼
+Cybersecurity Fundamentals
+   │
+   ▼
+SOC & SIEM
+   │
+   ▼
+Threat Detection
+   │
+   ▼
+Incident Response
+   │
+   ▼
+AI + Cybersecurity
+   │
+   ▼
+AI Agents
 ```
-
-Current priorities:
-
-* Building cybersecurity projects
-* Learning SOC and SIEM workflows
-* Improving Python and networking
-* Developing AI agents
-* Building practical web applications
-* Preparing for cybersecurity internships
 
 ---
 
@@ -254,71 +210,58 @@ Current priorities:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeevanantham713&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeevanantham713&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanantham713&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanantham713&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## `> contribution_graph`
+## `> contribution_activity`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanantham713&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanantham713&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## `> streak`
+## `> github_streak`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeevanantham713&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="https://streak-stats.demolab.com?user=jeevanantham713&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## `> learning_roadmap`
+## `> development_goals`
 
 ```text
-                         JEEVANANTHAM
-                              │
-                 ┌────────────┴────────────┐
-                 │                         │
-             DEVELOPMENT              SECURITY
-                 │                         │
-        ┌────────┼────────┐         ┌──────┼──────┐
-        │        │        │         │      │      │
-      React    Node     Python    Linux  Network SOC
-        │        │        │         │      │      │
-        └────────┴────────┘         └──────┴──────┘
-                 │                         │
-                 └────────────┬────────────┘
-                              │
-                         AI + SECURITY
-                              │
-                         AI AGENTS
-```
-
----
-
-## `> goals`
-
-```text
-[ ] Become a strong full-stack developer
-[ ] Build production-quality cybersecurity tools
+[ ] Build production-quality web applications
+[ ] Develop practical cybersecurity tools
 [ ] Master networking fundamentals
 [ ] Learn SOC operations
 [ ] Build SIEM and detection projects
 [ ] Improve Python automation
 [ ] Build useful AI agents
-[ ] Contribute to open source
+[ ] Contribute to open-source projects
 [ ] Gain cybersecurity internship experience
+[ ] Build a strong technical portfolio
 ```
+
+---
+
+## `> activity`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jeevanantham713&theme=matrix&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
@@ -327,11 +270,11 @@ Current priorities:
 <div align="center">
 
 <a href="https://github.com/jeevanantham713">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -341,15 +284,17 @@ Current priorities:
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────┐
-│                                          │
-│       BUILD  •  LEARN  •  SECURE         │
-│                                          │
-└──────────────────────────────────────────┘
+┌─────────────────────────────────────────────┐
+│                                             │
+│       BUILD  •  LEARN  •  SECURE            │
+│                                             │
+│       [ SYSTEM STATUS : ONLINE ]            │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
-### `> System status: ONLINE_`
+### `> Thanks for visiting my profile_`
 
-⭐ If you find my projects useful, consider giving them a star.
+⭐ Feel free to explore my repositories.
 
 </div>
