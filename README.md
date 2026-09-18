@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/GitHub-jeevanantham713-00FF9C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<a href="https://www.linkedin.com/in/v-jeeva-nantham-57a333321/">
+<img src="https://img.shields.io/badge/LinkedIn-Jeevanantham-00FF9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=jeevanantham713&style=for-the-badge&color=00FF9C" alt="Profile Views"/>
 
 </div>
@@ -273,7 +277,7 @@ AI Agents
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/v-jeeva-nantham-57a333321/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/>
 </a>
 
