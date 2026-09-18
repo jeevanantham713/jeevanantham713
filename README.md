@@ -259,13 +259,7 @@ AI Agents
 
 ---
 
-## `> activity`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeevanantham713&theme=matrix&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
