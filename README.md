@@ -4,7 +4,7 @@
 
 ### B.Sc. Computer Science (AI & Data Science) | Web Developer | Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Web+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;SOC+%26+SIEM+Learner;AI+Agent+Builder;Build+%7C+Learn+%7C+Secure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Web+Developer;Cybersecurity+Enthusiast;AI+Agent+Builder;SOC+%26+SIEM+Learner;Python+Developer;Build+%7C+Learn+%7C+Secure" alt="Typing SVG" />
 
 <br>
 
@@ -34,29 +34,33 @@ $ cat profile.txt
 Role        : Computer Science Student
 Degree      : B.Sc. Computer Science (AI & Data Science)
 Focus       : Web Development + Cybersecurity + AI
-Learning    : SOC | SIEM | Networking | Linux | Python
+Learning    : Networking | Linux | SOC | SIEM
 Building    : Security Tools | AI Agents | Web Applications
+AI Stack    : Python | Ollama | Local LLMs
 Location    : Tamil Nadu, India
 Status      : Learning & Building
 ```
 
-I am a Computer Science student interested in building practical software, exploring cybersecurity, and using AI to solve real-world problems.
+I am a Computer Science student focused on building practical software, exploring cybersecurity, and developing AI-powered applications.
 
-My main interests are Web Development, Cybersecurity, SOC/SIEM, AI Agents, Python automation, and intelligent applications.
+My current interests include Web Development, Cybersecurity, SOC/SIEM, Networking, Python automation, Local AI, and AI Agents.
+
+I enjoy turning ideas into working projects and continuously improving my technical skills through hands-on development.
 
 ---
 
 ## `> about_me`
 
 * 🎓 B.Sc. Computer Science — AI & Data Science
-* 💻 Web Development enthusiast
-* 🛡️ Cybersecurity and SOC learner
-* 🤖 Exploring AI/ML and AI agents
-* 🐍 Improving Python and automation skills
-* 🌐 Learning networking and system security
+* 💻 Building modern web applications
+* 🛡️ Learning cybersecurity and SOC operations
+* 📊 Exploring SIEM and security monitoring
+* 🤖 Building AI agents with local LLMs
+* 🐍 Developing with Python
+* 🌐 Learning networking fundamentals
 * 🐧 Working with Linux and Windows
-* 🔧 Building practical projects
-* 🚀 Interested in cybersecurity internships and real-world development
+* 🔐 Interested in defensive security and threat detection
+* 🚀 Building practical projects for my portfolio
 
 ---
 
@@ -65,32 +69,42 @@ My main interests are Web Development, Cybersecurity, SOC/SIEM, AI Agents, Pytho
 ### Programming
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming Skills"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming"/>
 </p>
 
 ### Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" alt="Web Development Skills"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" alt="Web Development"/>
 </p>
 
 ### AI / Data Science
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI Skills"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI"/>
 </p>
 
 ### Cybersecurity & Systems
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,windows" alt="Cybersecurity Skills"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,windows" alt="Cybersecurity"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,sqlite" alt="Tools"/>
 </p>
+
+### AI
+
+```text
+Ollama
+Local LLMs
+AI Agents
+Prompt Engineering
+AI Automation
+```
 
 ---
 
@@ -98,19 +112,20 @@ My main interests are Web Development, Cybersecurity, SOC/SIEM, AI Agents, Pytho
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛡️ Cybersecurity News Agent
 
-An AI-powered cybersecurity news application that collects security news and uses AI to analyze and present relevant information.
+A local AI-powered cybersecurity news agent that collects security news and uses a local LLM to summarize, explain, and analyze security-related information.
 
 **Technologies**
 
-`Python` `AI` `Gemini API` `Cybersecurity`
+`Python` `Ollama` `Flask` `Local AI`
 
 **Focus**
 
-`Threat Intelligence` · `Security News` · `AI Agents`
+`Cybersecurity News` · `Threat Intelligence` · `AI Agents`
 
 </td>
 
@@ -118,30 +133,32 @@ An AI-powered cybersecurity news application that collects security news and use
 
 ### 🔐 CyberGuard AI
 
-A cybersecurity log-analysis project where users can upload log files and analyze suspicious activity, possible attacks, and security events.
+An AI-powered security log analysis assistant that analyzes uploaded log files, identifies suspicious activity, and explains potential security events.
 
 **Technologies**
 
-`Python` `AI` `Log Analysis`
+`Python` `Ollama` `AI` `Log Analysis`
 
 **Focus**
 
 `SOC` · `Threat Detection` · `Incident Analysis`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📊 LOG SENTINEL
 
-A Mini SIEM project designed around the security monitoring workflow.
+A Mini SIEM project designed to simulate a security monitoring workflow.
 
 ```text
 Logs
  ↓
-SIEM
+Log Processing
  ↓
 Detection Rules
  ↓
@@ -151,6 +168,10 @@ Investigation
  ↓
 Incident Report
 ```
+
+**Technologies**
+
+`Python` `SQLite` `Windows Logs` `SIEM`
 
 **Focus**
 
@@ -162,50 +183,51 @@ Incident Report
 
 ### 🔎 Cyber Recon System
 
-An authorized website security reconnaissance tool for analyzing HTTP, TLS, cookies, headers, DNS/email security, and other security-related information.
+An authorized security reconnaissance tool for analyzing web security information including HTTP headers, TLS, cookies, DNS/email security, and related configuration.
 
 **Technologies**
 
-`Python` · `HTTP` · `TLS` · `DNS`
+`Python` `HTTP` `TLS` `DNS`
 
 **Focus**
 
-`Reconnaissance` · `Web Security` · `Security Reporting`
+`Web Security` · `Reconnaissance` · `Security Reporting`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `> current_learning`
+## `> current_focus`
 
 ```text
-Python
-   │
-   ▼
-Networking
-   │
-   ▼
-Linux & Windows
-   │
-   ▼
-Cybersecurity Fundamentals
-   │
-   ▼
-SOC & SIEM
-   │
-   ▼
-Threat Detection
-   │
-   ▼
-Incident Response
-   │
-   ▼
-AI + Cybersecurity
-   │
-   ▼
-AI Agents
+┌──────────────────────────────────────────────┐
+│              CURRENT LEARNING                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  Python                                     │
+│      ↓                                       │
+│  Networking                                  │
+│      ↓                                       │
+│  Linux & Windows                             │
+│      ↓                                       │
+│  Cybersecurity Fundamentals                  │
+│      ↓                                       │
+│  SOC Operations                              │
+│      ↓                                       │
+│  SIEM & Log Analysis                         │
+│      ↓                                       │
+│  Threat Detection                            │
+│      ↓                                       │
+│  Incident Response                           │
+│      ↓                                       │
+│  AI + Cybersecurity                          │
+│      ↓                                       │
+│  AI Agents                                   │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
@@ -220,27 +242,56 @@ AI Agents
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jeevanantham713&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## `> contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanantham713&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
 ## `> development_goals`
 
 ```text
-[ ] Build production-quality web applications
-[ ] Develop practical cybersecurity tools
+[✓] Learn Python fundamentals
+[✓] Build web applications
+[✓] Start cybersecurity projects
+[✓] Explore local AI with Ollama
+
 [ ] Master networking fundamentals
+[ ] Build production-quality web applications
+[ ] Develop practical security tools
 [ ] Learn SOC operations
-[ ] Build SIEM and detection projects
+[ ] Build SIEM projects
+[ ] Learn threat detection
 [ ] Improve Python automation
-[ ] Build useful AI agents
-[ ] Contribute to open-source projects
+[ ] Build advanced AI agents
+[ ] Contribute to open-source
 [ ] Gain cybersecurity internship experience
 [ ] Build a strong technical portfolio
 ```
 
 ---
 
+## `> project_philosophy`
 
+```text
+Build → Test → Break → Learn → Improve → Secure
+```
+
+I believe the best way to learn technology is by building real projects, understanding how systems work, and continuously improving them.
 
 ---
 
@@ -265,15 +316,15 @@ AI Agents
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│       BUILD  •  LEARN  •  SECURE            │
+│        BUILD • LEARN • SECURE               │
 │                                             │
-│       [ SYSTEM STATUS : ONLINE ]            │
+│        [ SYSTEM STATUS : ONLINE ]           │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
 
 ### `> Thanks for visiting my profile_`
 
-⭐ Feel free to explore my repositories.
+⭐ Explore my repositories and follow my development journey.
 
 </div>
