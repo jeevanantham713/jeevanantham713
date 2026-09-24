@@ -220,25 +220,6 @@ AI Agents
 
 </div>
 
----
-
-## `> contribution_activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanantham713&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## `> github_streak`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jeevanantham713&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
